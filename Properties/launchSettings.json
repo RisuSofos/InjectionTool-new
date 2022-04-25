@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InjectionTool": {
+        "commandName": "Project",
+        "commandLineArgs": "inject -l ./DLL/test.dll -p 12624 -n testing"
+    }
+  }
+}
